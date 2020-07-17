@@ -5,7 +5,7 @@
 
 
 
-![https://apps.apple.com/us/app/sleepbot/id1202824148](https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/57/6e/a8/576ea840-da1f-05f0-47aa-89da57a0975d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x100wa.png.png)
+![https://apps.apple.com/us/app/sleepbot/id1202824148](https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/57/6e/a8/576ea840-da1f-05f0-47aa-89da57a0975d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x100wa.png)
 
 [RestBot](https://apps.apple.com/pa/app/restbot/id976920693)
 Application for monitoring rest times in your gym routines
