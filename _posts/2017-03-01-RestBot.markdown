@@ -7,5 +7,5 @@ alt: image-alt
 project-date: March 2015
 client: iPhone, Apple Watch
 category: iOS Development
-description: Application to monitor your sleep automatically.
+description: Application to monitor your rest times in the gym.
 ---
