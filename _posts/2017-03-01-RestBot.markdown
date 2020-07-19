@@ -9,10 +9,4 @@ client: iPhone, Apple Watch
 category: iOS Development
 description: Without activating anything! Without worries! Just go to bed and Sleepbot will do the rest!
 Forget about having to activate the app every time you go to bed like the rest of sleep apps.
-
-With Sleepbot if you put the Apple Watch while you sleep you can analyze the dream in a totally revolutionary way, thanks to our algorithm we analyze your movement patterns, your steps and your heart rate to detect when you went to sleep, all this without spending anything Battery as the application gets the data from the health application.
-
-If you're not wearing Apple Watch while you sleep, Sleepbot will measure the time in which you leave loading.
-
-In addition we show you statistics and long term trends so you can see for yourself how you sleep over time.
 ---
