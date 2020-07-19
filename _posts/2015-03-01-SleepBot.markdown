@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 2
-date: 2020-07-19
+modal-id: 1
+date: 2020-07-18
 img: 2.png
 alt: image-alt
 project-date: March 2012
-client: iPhone, Apple Watch
+client: iPhone - Apple Watch
 category: iOS Development
-description:Application to monitor your rest times in the gym.
+description: Application to monitor your rest times in the gym.
 ---
