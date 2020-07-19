@@ -1,19 +1,32 @@
-**I’m a professional software developer for more than ten years by vocation.**
+Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
+=========================
 
-### Personal projects:
+Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
-
-
-![https://apps.apple.com/us/app/sleepbot/id1202824148](https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/57/6e/a8/576ea840-da1f-05f0-47aa-89da57a0975d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x100wa.png)
-
-[RestBot](https://apps.apple.com/pa/app/restbot/id976920693)
-Application for monitoring rest times in your gym routines
+## How to use
+ - Place a image in `/img/portfolio/`
+ - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
+ - Create posts to display your projects. Use the follow as an example:
+```txt
+---
+layout: default
+modal-id: 1
+date: 2020-01-18
+img: cabin.png
+alt: image-alt
+project-date: January 2020
+client: The Client
+category: Web Development
+description: The description of the project
 
 ---
+```
 
-![https://apps.apple.com/us/app/sleepbot/id1202824148](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a5/5e/66/a55e663e-2632-d0cf-b65d-fdf76d28f37d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x100wa.png)
+## Demo
+View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
 
-[SleepBot](https://apps.apple.com/us/app/sleepbot/id1202824148)
-Sleep tracking application automatically, with parameter-based detection algorithms provided by Apple Watch
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
 
----
+---------
+For more details, read the [documentation](http://jekyllrb.com/)
