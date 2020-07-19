@@ -7,5 +7,5 @@ alt: image-alt
 project-date: March 2012
 client: iPhone, Apple Watch
 category: iOS Development
-description:Application number 1 to measure your breaks and see your long-term trends in your workouts!.
+description:Application to monitor your rest times in the gym.
 ---
