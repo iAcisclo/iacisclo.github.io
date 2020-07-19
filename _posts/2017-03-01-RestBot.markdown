@@ -7,5 +7,14 @@ alt: image-alt
 project-date: March 2017
 client: iPhone, Apple Watch
 category: iOS Development
-description: meh
+description: Application number 1 to measure your breaks and see your long-term trends in your workouts!
+
+With Restbot you avoid the complications of having to be changing routine in the application, or indicating which muscle you are working, we do not focus on what matters, workout.
+
+When measuring your statistics to see detailed your statistics to see your trends in the long term, which days you have trained more, which month you have been better ...
+
+And if you have Apple Watch these lucky, are not you tired of being with your iPhone in hand and your workouts to measure your breaks? Unlock, open the application, start it, do your series and start over ...
+With Restbot it will be super simple to measure your rest times, and not only does that, with the information that a clock receives the working time in each routine, and the total time of the exercise, also, depending on the number of repetitions that you do Will show you the evolutionary graphics ... and you only have to press once when each repetition ends!
+
+It also integrates with the health application so you do not miss a single detail of your achievements.
 ---
