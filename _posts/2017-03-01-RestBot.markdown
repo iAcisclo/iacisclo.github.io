@@ -7,6 +7,5 @@ alt: image-alt
 project-date: March 2017
 client: iPhone, Apple Watch
 category: iOS Development
-description: Without activating anything! Without worries! Just go to bed and Sleepbot will do the rest!
-Forget about having to activate the app every time you go to bed like the rest of sleep apps.
+description: meh
 ---
