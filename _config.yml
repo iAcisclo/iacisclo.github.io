@@ -39,7 +39,6 @@ author_project_details:
     visibility: true
 twitter_username: iacisclo
 github_username: iacisclo
-facebook_username: Ignacio Acisclo
 linkedin_username: Ignacio Acisclo
 formspree_email: iacisclo@gmail.com
 olvy_organization: devlopr
@@ -53,17 +52,6 @@ show_author_project_details: true
 paginate: 4
 per_page: 4
 paginate_path: '/blog/page/:num/'
-defaults:
-  - scope:
-      path: gallery
-    values:
-      permalink: '/:path/:basename:output_ext'
-  - scope:
-      path: ''
-      type: authors
-    values:
-      layout: author
-      permalink: '/blog/authors/:slug'
 plugins:
   - jekyll-paginate
   - jekyll-gist
