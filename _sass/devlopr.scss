@@ -663,7 +663,9 @@ header {
     border-color: #303030;
     background: transparent;
 }
-
+img.rounded-corners {
+  border-radius: 4px;
+}
 
 #profile-card {
     text-align: center;

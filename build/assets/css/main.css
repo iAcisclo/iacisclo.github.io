@@ -207,6 +207,8 @@ header { background-color: var(--main-background-color); box-shadow: 0px; height
 
 .article-card a :hover { text-decoration: none; background: #303030 !important; border-color: #303030; background: transparent; }
 
+img.rounded-corners { border-radius: 4px; }
+
 #profile-card { text-align: center; }
 
 #profile-card #author-img { text-align: center; }
