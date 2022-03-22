@@ -10,7 +10,15 @@ urls:
     url: /about
 author_logo: profile.png
 author: Ignacio Acisclo
-author_bio: 'Hi, my name is Ignacio Acisclo.'
+author_bio: >-
+  Hi, my name is Ignacio Acisclo, I have been developing iOS applications since
+  2011 by vocation and since 2013 professionally.
+
+  I am passionate about technology and science, I practice insect breeding as a
+  hobby and I exercise every day.
+
+  I think I'm lucky to work on something that doesn't bore me any day of the
+  year.
 author_email: iacisclo@gmail.com
 author_location: Spain
 author_website_url: 'https://github.com/iAcisclo'
@@ -21,7 +29,7 @@ author_work_experiences:
     company_logo: autentia.jpeg
     company_url: 'https://autentia.com'
     designation: Software Engineer
-    description: Worked on various iOS Products
+    description: Working on multiple iOS projects
     visibility: true
 author_project_details:
   - project_thumbnail: gamershub.png
