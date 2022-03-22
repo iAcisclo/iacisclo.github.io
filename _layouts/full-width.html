@@ -10,15 +10,6 @@ layout: compress
         <div class="container-fluid">
             {{ content }}
         </div>
-     <script>
-            var options = {
-                classname: 'progressline',
-                id: 'my-id'
-            };
-            var nanobar = new Nanobar( options );
-            nanobar.go( 30 );
-            nanobar.go( 76 );
-            nanobar.go(100);
-        </script>
+        {%- include footer.html -%}
   </body>
 </html>

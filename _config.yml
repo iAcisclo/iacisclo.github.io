@@ -8,8 +8,6 @@ urls:
     url: /
   - text: About
     url: /about
-  - text: Contact
-    url: /contact
 author_logo: profile.png
 author: Ignacio Acisclo
 author_bio: 'Hi, my name is Ignacio Acisclo.'
@@ -20,12 +18,11 @@ typewrite-text: I am passionate iOS developer from Spain
 hero_cover_img: sample_cover.jpg
 author_work_experiences:
   - company_name: Autentia
-    company_logo: google.png
+    company_logo: autentia.jpeg
     company_url: 'https://autentia.com'
     designation: Software Engineer
     description: Worked on various iOS Products
     visibility: true
-author_education_details: []
 author_project_details:
   - project_thumbnail: gamershub.png
     project_title: Gamers Hub
@@ -47,8 +44,8 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 show_author_work_experiences: true
-show_author_education_details: true
-show_author_project_details: true
+show_author_education_details: 'false'
+show_author_project_details: 'false'
 paginate: 4
 per_page: 4
 paginate_path: '/blog/page/:num/'
